@@ -421,3 +421,33 @@ footer {
     color:#444;
   }
 }
+
+.acc-container {
+  width:90%;
+  overflow:hidden;
+}
+
+.acc-btn { 
+  margin:0 auto;
+}
+.acc-btn h4{
+margin: 0px;
+}
+
+.acc-content {
+  height:0px;
+  width:100%;
+  margin:0 auto;
+  overflow:hidden;
+    margin-left: 20px;
+margin-bottom: 9px;
+}
+
+.open {
+  height: auto;
+}
+
+
+.selected {
+  color:#1ABC9C;
+}

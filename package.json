@@ -1,0 +1,27 @@
+{
+  "name": "geekout-coworking.github.io",
+  "version": "1.0.0",
+  "description": "geekout coworking",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/http-server/bin/http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geekout-coworking/geekout-coworking.github.io.git"
+  },
+  "keywords": [
+    "coworking",
+    "landing",
+    "tech-coworkable"
+  ],
+  "author": "Sobin George Thomas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geekout-coworking/geekout-coworking.github.io/issues"
+  },
+  "homepage": "https://github.com/geekout-coworking/geekout-coworking.github.io",
+  "dependencies": {
+    "http-server": "^0.7.5"
+  }
+}
