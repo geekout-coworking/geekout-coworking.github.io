@@ -74,6 +74,27 @@ h4, h5, h6 {
 	font-family: Arvo, Monaco, serif;
 	font-weight: 700;
 }
+h4 span {
+    font-size: 15px;
+    margin-left: 7px;
+}
+
+h4 span.plus, h4 span.minus {
+    font-size: 15px;
+    margin-left: 7px;
+}
+
+h4.selected span.minus {
+    display: inline;
+}
+
+h4.selected span.plus {
+    display: none;
+}
+
+h4 span.minus {
+    display: none;
+}
 
 a {
   color:#C30000;
